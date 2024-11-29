@@ -1,5 +1,5 @@
 {
-    "template": "Data Sharing - Oracle DB API",
+    "template": "Data Sharing - Oracle DB",
     "credentials": [
         {
             "type": "ORACLE",
